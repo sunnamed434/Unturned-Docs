@@ -8,7 +8,7 @@ The built documentation is hosted by [Read the Docs](https://readthedocs.org/) h
 Offline Downloads
 -----------------
 
-PDF and Epub versions of the documentation can be [downloaded](https://readthedocs.org/projects/unturned/downloads/) for offline use.
+PDF and Epub versions. of the documentation can be [downloaded](https://readthedocs.org/projects/unturned/downloads/) for offline use.
 
 Contributing
 ------------
